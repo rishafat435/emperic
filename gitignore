@@ -1,0 +1,14 @@
+# Rust build output
+target/
+
+# C build output
+empiric-core/empiric-core.exe
+
+# Node
+node_modules/
+
+# Tauri generated
+src-tauri/gen/
+
+# Zed
+.zed/
